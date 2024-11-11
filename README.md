@@ -12,3 +12,8 @@ Este proyecto en Python permite extraer contraseñas guardadas en el navegador C
 
 - Python 3.x
 - Y las bibliotecas necesarias
+
+
+1 crea un entorno
+2 descarga las librerias requierments.txt
+3 genera .exe
